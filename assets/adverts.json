@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Dell Gaming setup",
+    "id": 1,
+    "picture": "https://i.pinimg.com/originals/c9/37/b7/c937b7c2d89718e3679b86c550706a80.jpg",
+    "advertText": "FAST Dell Alienware Aurora R8 Gaming Setup, comes with i7, GTX 1050 Ti, 16GB RAM, 1TB storage. Windows 10. Condition is Used. Comes with monitor, computer case, keyboard and mouse. Collection in Southall, London. Call Alex at 07934567890",
+    "details": [
+      { "price": "Price :",
+        "subPrice": "500£",
+        "name": "Author name :",
+        "authorname": "Alex Smith",
+        "submission": "Submission date :",
+        "subdate": "11/04/2020",
+        "issue": "Magazine issue :"
+      }
+    ]
+  },
+  {
+    "title": "Logitech Keyboard",
+    "id": 2,
+    "picture": "https://www.techadvisor.co.uk/cmsdata/slideshow/3642672/best_gaming_keyboard_thumb1200_4-3.jpg",
+    "advertText": "Logitech G213 Prodigy Wired Gaming Keyboard Excellent Condition. My son has only used a few times. Bought for £40. Condition is Used. Dispatched with Royal Mail 1st Class or collection in Manchester, UK. Call Leah at 07945782398",
+    "details": [
+      { "price": "Price :",
+        "subPrice": "50£",
+        "name": "Author name :",
+        "authorname": "Leah Cherry",
+        "submission": "Submission date :",
+        "subdate": "12/04/2020",
+        "issue": "Magazine issue :"
+      }
+    ]
+  },
+  {
+    "title": "Samsung S20 Plus",
+    "id": 3,
+    "picture":"https://cdn2.expertreviews.co.uk/sites/expertreviews/files/styles/er_main_wide/public/2020/03/samsung_galaxy_s20_009.jpg?itok=3WDeGQOw",
+    "advertText": "Samsung Galaxy S20+ Plus 5G SM-G986B/DS - 128GB - Cloud Pink (Unlocked). Phone is only a couple of weeks old but to be honest always been an iPhone guy so will prefer going back to iPhone. Phone is boxed with cables headphones etc and will have a new case along with it. It had a screen protector fitted when purchased which is still on phone and also still has plastic on the back. Will be sent recorded delivery or collection in London, UK. Contact Betty at 07947859384",
+    "details": [
+      { "price": "Price :",
+        "subPrice": "800£",
+        "name": "Author name :",
+        "authorname": "Betty Cooper",
+        "submission": "Submission date :",
+        "subdate": "12/02/2020",
+        "issue": "Magazine issue :"
+      }
+    ]
+  },
+ {
+    "title": "iPhone XR",
+    "id": 4,
+    "picture":"https://image-cdn.beforward.jp/autoparts/original/201811/3624000/i-img1200x905-1543074637b5ev4j625433.jpg",
+    "advertText": "Apple iPhone XR - 128GB - Blue (Unlocked) A2105 (GSM). Condition is Used. Dispatched with Royal Mail 1st Class or collection in Southall, London. Contact John at 07936783924",
+    "details": [
+      { "price": "Price :",
+        "subPrice": "500£",
+        "name": "Author name :",
+        "authorname": "John Snow",
+        "submission": "Submission date :",
+        "subdate": "10/02/2020",
+        "issue": "Magazine issue :"
+      }
+    ]
+  },
+  {
+    "title": "Apple Airpods gen 2",
+    "id": 5,
+    "picture":"https://images.idgesg.net/images/article/2019/03/airpods-2nd-gen-04-100792368-large.3x2.jpg",
+    "advertText": "Apple AirPods Wireless Bluetooth Headphones - White (2nd Gen) In Perfect Working Order & In Good Condition. Collection from Ealing, London or         shipping with Royal Mail tracked 1st class. Contact Archie 07927648379. I also have a Samsung Tablet for sale.",
+    "details": [
+      { "price": "Price :",
+        "subPrice": "100£",
+        "name": "Author name :",
+        "authorname": "Archie Andrews",
+        "submission": "Submission date :",
+        "subdate": "08/02/2020",
+        "issue": "Magazine issue :"
+      }
+    ]
+  },
+  {
+    "title": "Samsung Tablet 2018",
+    "id": 6,
+    "picture":"https://i.ebayimg.com/images/g/WyAAAOSwxNBcyG8U/s-l1600.jpg",
+    "advertText": "Samsung Galaxy Tab A 32GB, Wi-FI, 10.1 inch - Black. Condition is Used. Dispatched with Royal Mail 1st Class or collection in Exeter, call Archie at 07927648379. I also have AirPods for sale.",
+    "details": [
+      { "price": "Price :",
+        "subPrice": "200£",
+        "name": "Author name :",
+        "authorname": "Archie Andrews",
+        "submission": "Submission date :",
+        "subdate": "08/02/2020",
+        "issue": "Magazine issue :"
+      }
+    ]
+  }
+]
